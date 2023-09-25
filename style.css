@@ -10,7 +10,7 @@
   font-style: normal;
 }
 body {
-  background: linear-gradient(90deg, #1e2751, #765025, #6a0500);
+  background: linear-gradient(90deg, #6a0500, #6a0500, #6a0500);
   background-size: 600% 600%;
   animation: AnimationName 5s ease infinite;
 }
